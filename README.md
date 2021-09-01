@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Mahirshadid (Mahir Shadid)
+- 👀 I’m interested in Web development & Android Application Development.
+- 🌱 I’m currently learning Php and Python.
+- 📫 How to reach me? send me an email to mahir.shadid@gmail.com
