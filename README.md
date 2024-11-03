@@ -1,4 +1,4 @@
-![laptop](https://github.com/user-attachments/assets/44d43791-67e9-49ba-b3e4-0845c1c85da8)
+![laptop](https://github.com/user-attachments/assets/44d43791-67e9-49ba-b3e4-0845c1c85da8 | width=100)
 
 👋 Hi there! I'm Mahir Shadid.
 
